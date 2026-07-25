@@ -13,13 +13,11 @@ Gosto de criar projetos que unem **programação, educação e tecnologia**.
 
 Atualmente estou estudando:
 
-* Java
-* Desenvolvimento Web
-* Banco de Dados
-* Estrutura de Dados
-
+* Python
+  
 Também trabalho com:
 
+* Arduino
 * Lego Spike Prime
 * Programação para alunos do Middle School
 * Projetos de inovação e design thinking
@@ -28,6 +26,7 @@ Também trabalho com:
 
 ## 🛠️ Tecnologias
 
+* Python
 * Java
 * HTML
 * CSS
